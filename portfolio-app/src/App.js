@@ -8,8 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I do what I want when I want
-          <code>......thank you very much</code>
+          I do what I want when I want 
+          <code>.....thank you very much</code>
         </p>
         <a
           className="App-link"
