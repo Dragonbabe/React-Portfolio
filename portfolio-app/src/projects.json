@@ -4,5 +4,11 @@
         "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
         "info": "This was my first group project. We designed a website to help fun lovers find entertainment events in their city of choice!",
         "link": "https://dragonbabe.github.io/Mamma-Mia/"   
+    },
+    {
+        "name": "Project 2: Recipe Box",
+        "image": "recipe.box.png",
+        "info": "This was my second group project. Our group all had fond memories of our moms having a recipe box with cards and hand written recipes that she would pull out and we would bake or cook together. This application utilizes full-stack web development as well as CRUD to create this website. We made everything! Front and back!",
+        "link": "https://floating-garden-43983.herokuapp.com/"
     }
 ]

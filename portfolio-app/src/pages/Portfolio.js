@@ -2,10 +2,11 @@ import React from 'react';
 import projects from '../projects.json';
 import Wrapper from '../components/Wrapper';
 
-function Portfolio(props) {
+function Portfolio() {
     return (
         <Wrapper>
-            {projects.map((project, index) => <div className="card" key={index}>
+            {projects.map((project, index) => 
+            <div className="card" key={index}>
                 <div className="img-container">
                     <img alt={project.name} src={project.image} />
                 </div>
