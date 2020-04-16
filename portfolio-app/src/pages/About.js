@@ -1,10 +1,13 @@
 import React from 'react';
-
+//import Jack from '../assets/Jack.2019.JPG'
+import Gigi from '../assets/Gigi2.jpg'
 
 function About() {
     return (
         <div>
             <h2 className="about">About Me</h2>
+
+            <img src={Gigi} alt="Gigi my love"></img>
             
             <p>
                 My name is Esther Walker. Some of my favorite hobbies are horse-back riding, hiking,
@@ -17,8 +20,9 @@ function About() {
                 miles, 30+ obstacles. I have goals
                 to participate in a half marathon at the end of 2020 and then participate
                 in an an Ironman in 2021!
+                </p>
     
-                I got interested in Software Development because it is an amazing place
+               <p> I got interested in Software Development because it is an amazing place
                 to discover new things and challenge myself. In April of this year I started working at Amazon
                 with
                 the Dex Robotics
