@@ -1,0 +1,31 @@
+[
+    {   
+        "name": "See my work on Git Hub!",
+        "image": "https://api.badgr.io/public/badges/mFZYl_eHT_qhO3g-qFckIQ/image",
+        "paragraph": "Please check out my github page! View some of my favorite starred projects, as well as projects I am working on now!",
+        "link": "https://github.com/Dragonbabe",
+        "message": "Dragonbabe!"
+    },
+    {
+        "name": "Connect With Me Via E-mail!",
+        "image": "https://i1.wp.com/blog.mailtrap.io/wp-content/uploads/2020/01/boromir-email.jpg?w=640&ssl=1",
+        "paragraph": "We are all busy and sometimes the best way to reach someone is with a real quick e-mail. Feel free to reach out to me and request my phone number and we can even chat over the phone if you would like!",
+        "link": "mailto: esther.walker.master@gmail.com?Subject=Hello%20It's Me!",
+        "message": "E-mail me!"
+    },
+    {   
+        "name": "Connect on LinkedIn!",
+        "image": "https://www.sahilpopli.com/wp-content/uploads/2018/05/Linkedin.png",
+        "paragraph": "Here is a link to take you to my linkedin profile! You can get to know a little bit more about me and my job history and the people I know. I would love to connect with you!",
+        "link": "https://www.linkedin.com/in/esther-walker-434aa6b5/",
+        "message": "View My LinkedIn Profile Here!"
+    },
+    
+    {   
+        "name": "Resume!",
+        "image": "https://az505806.vo.msecnd.net/cms/dbd81454-cd85-4694-a25d-41f8c7b96904/f19cc602-730a-4bcd-8385-6590944cf416.png",
+        "paragraph": "Take a look at my resume. My job history, how long I have been in my current and previous jobs, and what I accomplished while I was there.",
+        "link": "https://github.com/Dragonbabe/Week2-Responsive-portfolio/blob/master/e.w.resume%20(2).pdf",
+        "message": "View My Resume Here!"
+    }
+]
