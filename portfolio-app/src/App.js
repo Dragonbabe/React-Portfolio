@@ -14,7 +14,6 @@ function App() {
       <div className="content">
         <Header />
         <NavTabs/>
-        
         <Switch>
           <Route exact path="/" component={About} />
           <Route exact path="/portfolio" component={Portfolio} />

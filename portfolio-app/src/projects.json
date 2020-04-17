@@ -5,10 +5,35 @@
         "info": "This was my first group project. We designed a website to help fun lovers find entertainment events in their city of choice!",
         "link": "https://dragonbabe.github.io/Mamma-Mia/"   
     },
+    
+    {
+        "name": "Weather Dashboard",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxoSWhoRiDKcD1QC5-JpgyvlYJV12xQRd1G21sezAu7q3OirQDg&s",
+        "info": "This assignment had me designing my own weather application! I got to use API's for the first time and in this particular application I utilized three separate API's. One for current weather, a separate one for UV Index, and then another just for the weather forecast. The user can type in any city and the city will be saved on the page, as well as it will give the user the current weather as well as the 5 day forecast to come. There are also associated icons with each weather type along with it! This was a very fun assignment! I enjoyed working on it and figuring out the little nuances.",
+        "link": "https://dragonbabe.github.io/HW6-Weather-Dashboard/"   
+    },
     {
         "name": "Project 2: Recipe Box",
-        "image": "recipe.box.png",
+        "image": "https://www.personalizationmall.com/cat_image/600/23812-58662-190315110405.jpg",
         "info": "This was my second group project. Our group all had fond memories of our moms having a recipe box with cards and hand written recipes that she would pull out and we would bake or cook together. This application utilizes full-stack web development as well as CRUD to create this website. We made everything! Front and back!",
         "link": "https://floating-garden-43983.herokuapp.com/"
+    },
+    {
+        "name": "Day Planner",
+        "image": "https://i.imgflip.com/20t8xg.jpg",
+        "info": "This homework I did involved creating a daily planner. I used Moment.js and dynamically had the color of the input boxes change depending on if the input box was past present or future.",
+        "link": "https://dragonbabe.github.io/HW5-DayPlanner/"   
+    },
+    {
+        "name": "Employee Directory With React!",
+        "image": "https://connecteam.com/wp-content/uploads/2019/02/welcome-to-the-team-1024x576.jpg",
+        "info": "This was my first assignment using React! I had to do an API call to  randomuser.me and it generated all of the user data. Additionally I had to filter the list by letters in the users first name and also sorted the list by ascending or descending birth months. I learned a ton on this project and I am really excited to make future projects using React!",
+        "link": "https://dragonbabe.github.io/Hw19-Employee-Directory/"   
+    },
+    {
+        "name": "Workout Tracker",
+        "image": "https://successiblelife.com/wp-content/uploads/2019/05/Fun-Workout-Games.jpeg",
+        "info": "This is a website that tracks your workouts. You can add new workouts,update a current workout, and it keeps a running tally of your weights lifted and reps if you are doing weight training, or it tracks your distance and duration if you were doing a cardio exercise.",
+        "link": " https://infinite-shore-62623.herokuapp.com/"   
     }
 ]

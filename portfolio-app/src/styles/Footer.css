@@ -1,16 +1,10 @@
-html, body, #root {
-    height: 20%;
-  }
-  #root {
-    display: flex;
-    flex-direction: column;
-  }
-  .content {
-    flex: 1 0 auto;
-  }
+
   .footer {
-    flex-shrink: 0;
-    position: absolute;
-    bottom: 50px;
+    text-decoration-color: darkslategray;
+    text-align: center;
+    height: 50px;
+    border-top: 7px solid teal;
+    padding-bottom: 150px;
+    background-color: #003333;
   }
   

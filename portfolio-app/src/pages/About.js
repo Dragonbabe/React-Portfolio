@@ -1,28 +1,31 @@
 import React from 'react';
+import '../styles/about.css';
 //import Jack from '../assets/Jack.2019.JPG'
-import Gigi from '../assets/Gigi2.jpg'
+import Gigi from '../assets/Gigi.my.love (2).jpg';
+import Wrapper from '../components/Wrapper';
 
 function About() {
     return (
-        <div>
-            <h2 className="about">About Me</h2>
-
-            <img src={Gigi} alt="Gigi my love"></img>
+        <Wrapper>
             
-            <p>
-                My name is Esther Walker. Some of my favorite hobbies are horse-back riding, hiking,
-                backpacking and climbing. Living in the Pacific Northwest affords many
-                opportunities to enjoy the outdoors until my heart is content! I also enjoy
-                running Spartan races and I completed my first Trifecta in 2019, a combination of the Spartan
-                Sprint with 4+ miles of
-                obstacle racing, 20+ obstacles, the Spartan Super with 8+ miles, 25+ obstacles, and the Spartan Beast
-                with 13+
-                miles, 30+ obstacles. I have goals
-                to participate in a half marathon at the end of 2020 and then participate
-                in an an Ironman in 2021!
+                <h2 className="about">About Me</h2>
+
+                <img src={Gigi} alt="Gigi my love" style={{width: "100%"}}></img>
+
+                <p>
+                    My name is Esther Walker. Some of my favorite hobbies are horse-back riding, hiking,
+                    backpacking and climbing. Living in the Pacific Northwest affords many
+                    opportunities to enjoy the outdoors until my heart is content! I also enjoy
+                    running Spartan races and I completed my first Trifecta in 2019, a combination of the Spartan
+                    Sprint with 4+ miles of
+                    obstacle racing, 20+ obstacles, the Spartan Super with 8+ miles, 25+ obstacles, and the Spartan Beast
+                    with 13+
+                    miles, 30+ obstacles. I have goals
+                    to participate in a half marathon at the end of 2020 and then participate
+                    in an an Ironman in 2021!
                 </p>
-    
-               <p> I got interested in Software Development because it is an amazing place
+
+                <p> I got interested in Software Development because it is an amazing place
                 to discover new things and challenge myself. In April of this year I started working at Amazon
                 with
                 the Dex Robotics
@@ -36,8 +39,9 @@ function About() {
                 the
                 UW Coding Bootcamp! It is very exciting and I am ectstatic to be learning more.
             </p>
+            
 
-        </div>
+        </Wrapper>
     )
 }
 export default About;
