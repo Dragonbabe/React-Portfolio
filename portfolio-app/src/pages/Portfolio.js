@@ -1,9 +1,12 @@
 import React from 'react';
-import projects from '../projects.json';
+import projects from '../projects';
 import Wrapper from '../components/Wrapper';
-
+import Header from '../components/Header';
 function Portfolio() {
     return (
+        <>
+        <Header message="Take A Look At My Projects!"/>
+        
         <Wrapper>
             <div className="row">
                 {projects.map((project, index) =>
@@ -17,13 +20,16 @@ function Portfolio() {
                                 <p>
                                     {project.info}
                                 </p>
-                                <a href={project.link}>See the action here!</a>
+                                <a href={project.link}>See my website here!</a><br>
+                                </br>
+                                <a href={project.github}>See my code on Git Hub!</a>
                             </div>
                         </div>
                     </div>
                 )}
             </div>
         </Wrapper>
+        </>
     );
 }
 export default Portfolio;

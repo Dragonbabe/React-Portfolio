@@ -1,11 +1,14 @@
 import React from 'react';
 import '../styles/about.css';
-//import Jack from '../assets/Jack.2019.JPG'
 import Gigi from '../assets/Gigi.my.love (2).jpg';
 import Wrapper from '../components/Wrapper';
+import Header from '../components/Header';
+
 
 function About() {
     return (
+        <>
+        <Header message={"Welcome To My Portfolio"}/>
         <Wrapper>
             
                 <h2 className="about">About Me</h2>
@@ -42,6 +45,7 @@ function About() {
             
 
         </Wrapper>
+        </>
     )
 }
 export default About;

@@ -1,9 +1,12 @@
 import React from 'react';
 import Wrapper from '../components/Wrapper';
 import contacts from '../contacts.json';
+import Header from '../components/Header';
 
 function Contact() {
     return (
+        <>
+        <Header message={"Contact Me!"}/>
     <Wrapper>
         <div className="row">
             {contacts.map((contact, index) => 
@@ -26,6 +29,7 @@ function Contact() {
             )}
         </div>
     </Wrapper>
+    </>
     );
 };
 

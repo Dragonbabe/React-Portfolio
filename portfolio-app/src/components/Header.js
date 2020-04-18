@@ -5,7 +5,7 @@ class Header extends React.Component {
     
     render()  {
         return (
-        <h1 className="jumbotron">Welcome to My Portfolio!</h1>
+        <h1 className="jumbotron">{this.props.message}</h1>
         )};
   }
 
