@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.032e8e82.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.313ed346.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.313ed346.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.877afae9.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.877afae9.js.map",
+    "static/js/2.7f275926.chunk.js": "/React-Portfolio/static/js/2.7f275926.chunk.js",
+    "static/js/2.7f275926.chunk.js.map": "/React-Portfolio/static/js/2.7f275926.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.887496731f8e7080f422a46e0b274680.js": "/React-Portfolio/precache-manifest.887496731f8e7080f422a46e0b274680.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.032e8e82.chunk.css.map": "/React-Portfolio/static/css/main.032e8e82.chunk.css.map",
+    "static/js/2.7f275926.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.7f275926.chunk.js.LICENSE.txt",
+    "static/media/Gigi.my.love (2).jpg": "/React-Portfolio/static/media/Gigi.my.love (2).b8004e3a.jpg",
+    "static/media/emp.dir.png": "/React-Portfolio/static/media/emp.dir.78d63c0e.png",
+    "static/media/fitness.dash.png": "/React-Portfolio/static/media/fitness.dash.b98cff52.png",
+    "static/media/jay.snip.png": "/React-Portfolio/static/media/jay.snip.f7a33be3.png",
+    "static/media/mm.snip.png": "/React-Portfolio/static/media/mm.snip.75af29df.png",
+    "static/media/recipe.box.png": "/React-Portfolio/static/media/recipe.box.e8443688.png",
+    "static/media/weather.dashboard.png": "/React-Portfolio/static/media/weather.dashboard.e6b6c0b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.877afae9.js",
+    "static/js/2.7f275926.chunk.js",
+    "static/css/main.032e8e82.chunk.css",
+    "static/js/main.313ed346.chunk.js"
+  ]
+}
