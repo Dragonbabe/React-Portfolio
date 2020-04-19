@@ -24,6 +24,9 @@ Project is created with :
 ## Summary
 
 I had a lot of fun using this application. only my second tie making something with react, but the more I do it the more comfortable I become and therefore more adventurous.
+
+![image](https://img-a.udemycdn.com/course/750x422/2227364_2d77.jpg)
+
 ## Author
 
 
