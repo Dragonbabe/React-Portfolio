@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.f81aff87.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.79411e1e.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.79411e1e.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.7110e733.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.7110e733.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.877afae9.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.877afae9.js.map",
-    "static/js/2.7f275926.chunk.js": "/React-Portfolio/static/js/2.7f275926.chunk.js",
-    "static/js/2.7f275926.chunk.js.map": "/React-Portfolio/static/js/2.7f275926.chunk.js.map",
+    "static/js/2.4e7c94e0.chunk.js": "/React-Portfolio/static/js/2.4e7c94e0.chunk.js",
+    "static/js/2.4e7c94e0.chunk.js.map": "/React-Portfolio/static/js/2.4e7c94e0.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.9e884d402ff18005de7f0d5a58813c1a.js": "/React-Portfolio/precache-manifest.9e884d402ff18005de7f0d5a58813c1a.js",
+    "precache-manifest.0181884c885c9132d1f91c6ed15b6768.js": "/React-Portfolio/precache-manifest.0181884c885c9132d1f91c6ed15b6768.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
     "static/css/main.f81aff87.chunk.css.map": "/React-Portfolio/static/css/main.f81aff87.chunk.css.map",
-    "static/js/2.7f275926.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.7f275926.chunk.js.LICENSE.txt",
+    "static/js/2.4e7c94e0.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.4e7c94e0.chunk.js.LICENSE.txt",
     "static/media/Gigi.my.love (2).jpg": "/React-Portfolio/static/media/Gigi.my.love (2).b8004e3a.jpg",
+    "static/media/book.ti.png": "/React-Portfolio/static/media/book.ti.f385410d.png",
     "static/media/emp.dir.png": "/React-Portfolio/static/media/emp.dir.78d63c0e.png",
     "static/media/fitness.dash.png": "/React-Portfolio/static/media/fitness.dash.b98cff52.png",
     "static/media/jay.snip.png": "/React-Portfolio/static/media/jay.snip.f7a33be3.png",
@@ -22,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.877afae9.js",
-    "static/js/2.7f275926.chunk.js",
+    "static/js/2.4e7c94e0.chunk.js",
     "static/css/main.f81aff87.chunk.css",
-    "static/js/main.79411e1e.chunk.js"
+    "static/js/main.7110e733.chunk.js"
   ]
 }
