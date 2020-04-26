@@ -29,8 +29,6 @@ const projects  =
         "github": "https://github.com/Dragonbabe/Mamma-Mia"
     },
     
-    
-    
     {
         "name": "Employee Directory With React!",
         "image": require("./assets/emp.dir.png"),
@@ -44,6 +42,13 @@ const projects  =
         "info": "This is a website that tracks your workouts. You can add new workouts,update a current workout, and it keeps a running tally of your weights lifted and reps if you are doing weight training, or it tracks your distance and duration if you were doing a cardio exercise.",
         "link": " https://infinite-shore-62623.herokuapp.com/",
         "github": "https://github.com/Dragonbabe/Hw17-Workout-Tracker"  
+    },
+    {
+    "name": "Google-Books Search",
+    "image": require("./assets/book.ti.png"),
+    "info": "This application enables users to search for a book, browse through results based upon their search, and save books that they are interested in and they are stored on the saved page. The user  can navigate to the saved page and view all the books that they saved. They can also choose to the view the book which will take them off site to the google store to purchase the book. They can do that both when they search for the book or when they look at their saved books. On the saved page they can choose to delete the book from their list of saved books.",
+    "link": "https://warm-fortress-28528.herokuapp.com/",
+    "github": "https://github.com/Dragonbabe/HW20-Google-Books-App"
     }
 ]
 export default projects;
