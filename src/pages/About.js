@@ -24,23 +24,16 @@ function About() {
                     obstacle racing, 20+ obstacles, the Spartan Super with 8+ miles, 25+ obstacles, and the Spartan Beast
                     with 13+
                     miles, 30+ obstacles. I have goals
-                    to participate in a half marathon at the end of 2020 and then participate
-                    in an an Ironman in 2021!
+                    to participate in a half marathon and then an Ironman!
                 </p>
 
                 <p> I got interested in Software Development because it is an amazing place
-                to discover new things and challenge myself. In April of this year I started working at Amazon
-                with
-                the Dex Robotics
-                program. It has been so interesting being a part of the culture of Software Development and the
+                to discover new things and challenge myself. My current role within Amazon is with the DEX Robotics
+                team. This team works on the Amazon Scout, autonomous delivery vehicles. Scouts are making amazing headway into the last mile delivery experience for Amazon customers the world over. It has been so interesting being a part of the culture of Software Development and the
                 amazing things technology is accomplishing! I decided to pursue a career in this field
                 ultimately
                 because there are
-                so many fascinating directions and opportunities to pursue! I have only gotten a taste of it in
-                my
-                new position at Amazon, and I have gotten to learn even more since I started my education with
-                the
-                UW Coding Bootcamp! It is very exciting and I am ectstatic to be learning more.
+                so many fascinating directions and opportunities to pursue. I have gotten to learn even more since attending Coding Bootcamp at the University of Washington! It has opened up a whole new world of learning and connections with awesome people. Looking forward to growing and learning more with these skills and expanding my potential in the software development community to impact the world for the better!
             </p>
             
 
